@@ -2,7 +2,6 @@
 
 A powerful all-in-one Discord bot featuring 75+ commands including moderation tools, fun games, utility functions, and server management. Complete with ticket system, auto-role, and anti-link protection.
 
-[![Discord](https://img.shields.io/discord/BvQRGsMtCZ?style=flat-square)](https://discord.gg/BvQRGsMtCZ)
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg?style=flat-square)](https://nodejs.org/)
 [![Discord.js](https://img.shields.io/badge/Discord.js-14-blue.svg?style=flat-square)](https://discord.js.org/)
 
@@ -120,7 +119,7 @@ A powerful all-in-one Discord bot featuring 75+ commands including moderation to
 
 ## 📚 Documentation
 
-- **[User Guide](https://github.com/demondevx/Crytx/blob/main/USER_GUIDE.m))** - Complete user documentation
+- **[User Guide](https://github.com/demondevx/Crytx/blob/main/USER_GUIDE.m)** - Complete user documentation
 - **[Privacy Policy](https://github.com/demondevx/Crytx/blob/main/PRIVACY_POLICE.md)** - Data handling and privacy
 - **[Terms of Service](https://github.com/demondevx/Crytx/blob/main/TERM_OF_SERVICE.md)** - Usage terms and conditions
 
