@@ -120,9 +120,9 @@ A powerful all-in-one Discord bot featuring 75+ commands including moderation to
 
 ## 📚 Documentation
 
-- **[User Guide]([USER_GUIDE.md](https://github.com/demondevx/Crytx/blob/main/USER_GUIDE.md))** - Complete user documentation
-- **[Privacy Policy]([PRIVACY_POLICY.md](https://github.com/demondevx/Crytx/blob/main/PRIVACY_POLICE.md))** - Data handling and privacy
-- **[Terms of Service]([TERMS_OF_SERVICE.md](https://github.com/demondevx/Crytx/blob/main/TERM_OF_SERVICE.md))** - Usage terms and conditions
+- **[User Guide](https://github.com/demondevx/Crytx/blob/main/USER_GUIDE.m))** - Complete user documentation
+- **[Privacy Policy](https://github.com/demondevx/Crytx/blob/main/PRIVACY_POLICE.md)** - Data handling and privacy
+- **[Terms of Service](https://github.com/demondevx/Crytx/blob/main/TERM_OF_SERVICE.md)** - Usage terms and conditions
 
 ---
 
@@ -131,7 +131,7 @@ A powerful all-in-one Discord bot featuring 75+ commands including moderation to
 ### Getting Help
 - **Support Server:** [Join our Discord](https://discord.gg/BvQRGsMtCZ)
 - **Bot Owner:** @demondev_
-- **Documentation:** Check the [User Guide]([USER_GUIDE.md](https://github.com/demondevx/Crytx/blob/main/USER_GUIDE.md))
+- **Documentation:** Check the [User Guide](https://github.com/demondevx/Crytx/blob/main/USER_GUIDE.md)
 
 ### Common Issues
 - **Commands not working:** Check permissions and bot status
